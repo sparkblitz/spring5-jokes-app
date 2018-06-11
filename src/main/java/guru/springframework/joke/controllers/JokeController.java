@@ -7,7 +7,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * Created by jt on 5/25/17.
+ * @author jguillen
  */
 @Controller
 public class JokeController {
